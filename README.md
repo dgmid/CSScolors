@@ -6,7 +6,7 @@ CSS Colors is a [Coda](https://www.panic.com/coda/) webscript sidebar plugin for
 
 ## Installation
 
-1. Download [CSScolors-WebScript-Sidebar-master.zip](https://github.com/dgmid/CSScolors-WebScript-Sidebar/archive/master.zip).
+1. Download [CSScolors-WebScript-Sidebar-master.zip](https://github.com/dgmid/CSScolors/archive/master.zip).
 2. Unzip it.
 3. Double-click the "PCSScolors.codawebscriptsidebar" icon.
 
